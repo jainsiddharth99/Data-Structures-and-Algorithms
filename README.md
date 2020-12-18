@@ -1,2 +1,1 @@
-# Data-Structures-and-Algorithms
-Data Structures and Algorithms implementation in Python
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
