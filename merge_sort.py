@@ -41,3 +41,8 @@ def merge_two_sorted_lists(a,b,arr):
 arr=[12,45,78,34,99,11,55]
 merge_sort(arr)
 print(arr)
+
+arr1=['box','owl','ship','wave','namor']
+merge_sort(arr)
+print(arr)
+
